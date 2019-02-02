@@ -1,0 +1,76 @@
+.bg {
+
+  /* Full height */
+  width: 100%;
+  border-radius: 0px;
+  padding: 0px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  width: 90%;
+  border-radius: 13px;
+  padding: 5px;
+}
+
+.bk {
+  /*width: 100%;*/
+  border-radius: 0px;
+  padding: 6px;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+
+p {
+  text-align: justify;
+}
+
+.table {
+    width:100%;
+    height:100%;
+    position:absolute;
+    display:table;
+}
+.cell {
+    display:table-cell;
+    vertical-align:middle;
+    width:100%;
+    height:100%:
+}
+
+body
+{
+  background-color: #adb8fa;
+  font-family: fantasy;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.flink {
+  background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #adb8fa;
+}
